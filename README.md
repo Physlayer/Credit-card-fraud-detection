@@ -13,5 +13,5 @@ which contains binary variableswhere “1” is a case of fraudulent transaction
 # Algorithms
 1. Random Forests
 2. XGBoost
-3. LightBM
+3. LightGBM
 
