@@ -15,3 +15,7 @@ which contains binary variableswhere “1” is a case of fraudulent transaction
 2. XGBoost
 3. LightGBM
 
+
+
+## Conclusion
+We can see that there is no direct relation between time and class seen.We also see that LightGBM performs the best out of the three because of its internal properties that it could handle imbalanced data better, smart feature selection for smaller number of feature vectors.
